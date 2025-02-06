@@ -8,11 +8,6 @@
 
 **Amigo Secreto(Tabla de Contenido)**
 
-[TOC]
-
-[TOC]
-
-
 ##Características ✨
 
 - Agregar Participantes: Añade amigos a la lista.
